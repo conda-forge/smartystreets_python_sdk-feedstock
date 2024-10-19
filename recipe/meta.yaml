@@ -19,6 +19,7 @@ requirements:
   host:
     - pip
     - python >=3.5|>=2.7
+    - setuptools
   run:
     - python >=3.5|>=2.7
     - requests
