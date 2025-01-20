@@ -18,10 +18,10 @@ build:
 requirements:
   host:
     - pip
-    - python {{ python_min }
+    - python {{ python_min }}
     - setuptools
   run:
-    - python >={{ python_min }
+    - python >={{ python_min }}
     - requests
 
 test:
@@ -32,7 +32,7 @@ test:
     - pip check
   requires:
     - pip
-    - python {{ python_min }
+    - python {{ python_min }}
 
 about:
   home: https://github.com/smartystreets/smartystreets-python-sdk
