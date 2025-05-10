@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-smartystreets_python_sdk-green.svg)](https://anaconda.org/conda-forge/smartystreets_python_sdk) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/smartystreets_python_sdk.svg)](https://anaconda.org/conda-forge/smartystreets_python_sdk) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/smartystreets_python_sdk.svg)](https://anaconda.org/conda-forge/smartystreets_python_sdk) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/smartystreets_python_sdk.svg)](https://anaconda.org/conda-forge/smartystreets_python_sdk) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-smartystreets__python__sdk-green.svg)](https://anaconda.org/conda-forge/smartystreets_python_sdk) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/smartystreets_python_sdk.svg)](https://anaconda.org/conda-forge/smartystreets_python_sdk) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/smartystreets_python_sdk.svg)](https://anaconda.org/conda-forge/smartystreets_python_sdk) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/smartystreets_python_sdk.svg)](https://anaconda.org/conda-forge/smartystreets_python_sdk) |
 
 Installing smartystreets_python_sdk
 ===================================
