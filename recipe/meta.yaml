@@ -11,17 +11,17 @@ source:
   sha256: b44b80b2e93fe6c950d281c34e9031f65608e174aaccb10e60d4948424e298dd
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
   host:
     - pip
-    - python >=3.5|>=2.7
+    - python {{ python_min }}
     - setuptools
   run:
-    - python >=3.5|>=2.7
+    - python >={{ python_min }}
     - requests
 
 test:
@@ -32,6 +32,7 @@ test:
     - pip check
   requires:
     - pip
+    - python {{ python_min }}
 
 about:
   home: https://github.com/smartystreets/smartystreets-python-sdk
