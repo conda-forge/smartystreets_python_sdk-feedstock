@@ -1,5 +1,5 @@
 {% set name = "smartystreets_python_sdk" %}
-{% set version = "4.18.0" %}
+{% set version = "4.19.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/smartystreets_python_sdk-{{ version }}.tar.gz
-  sha256: 4656ef46de9c6f43ecf0b0e548478248a48c8a2eac58d6d6d5f854ff91df5871
+  sha256: b44b80b2e93fe6c950d281c34e9031f65608e174aaccb10e60d4948424e298dd
 
 build:
   number: 0
