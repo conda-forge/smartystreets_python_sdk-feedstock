@@ -143,5 +143,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@melonhead901](https://github.com/melonhead901/)
+* [@kellend-git](https://github.com/kellend-git/)
 
